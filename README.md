@@ -4,7 +4,7 @@ The Unity folder contains a cozy winter scene which you can explore using UnityE
 
 ## Install guide
 
-(If you don't want to explore the Scene in Unity you can also look at the files in the Assets folder. The models, scripts and other files are located there.)
+(If you don't want to explore the scene in Unity you can also look at the files in the Assets folder. The models, scripts and other files are located there.)
 
 - This project does not contain a build therefore you need UnityEditor to be able to explore it. (Source code)
 - In Unity Hub, select the "Project" tab and then choose "Open". Select "Add Project from disk."
@@ -14,4 +14,4 @@ The Unity folder contains a cozy winter scene which you can explore using UnityE
 
 ## How to use
 
-In Unity, navigate to Scenes and double click "Cozy Winter Night". Now you can explore the scene with the camera. By pressing the play button at the top the scene will play the animations (snow, materializing effect)
+In Unity, navigate to scenes and double click "Cozy Winter Night". Now you can explore the scene with the camera. By pressing the play button at the top the scene will play the animations (snow, materializing effect)
